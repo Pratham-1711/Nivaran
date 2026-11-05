@@ -86,3 +86,5 @@ Each application can be deployed independently:
 ## Support
 
 For questions or issues, please contact the development team.
+
+Co Authored by Pratham Budhiraja - prathambudhiraja081@gmail.com and Vansh Aggarwal - vansh27102005@gmail.com
